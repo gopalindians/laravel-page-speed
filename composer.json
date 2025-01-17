@@ -1,5 +1,5 @@
 {
-    "name": "gopalsh560/laravel-page-speed",
+    "name": "gopalindians/laravel-page-speed",
     "description": "Laravel Page Speed",
     "keywords": [
         "laravel",
@@ -13,6 +13,10 @@
         {
             "name": "Renato Marinho",
             "email": "renato.marinho@s2move.com"
+        },
+        {
+            "name": "gopalindians",
+            "email": "gopalindians@gmail.com"
         }
     ],
     "require": {
