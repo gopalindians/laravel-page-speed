@@ -22,7 +22,7 @@ Simple package to minify HTML output on demand which results in a 35%+ optimizat
 You can install the package via composer:
 
 ```sh
-composer require renatomarinho/laravel-page-speed
+composer require gopalindians/laravel-page-speed
 ```
 
 This package supports Laravel [Package Discovery][link-package-discovery].
